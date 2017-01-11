@@ -1,0 +1,6 @@
+C:\Users\eduardo.azuaga\Documents\Visual Studio 2013\patternBuilder\patternBuilder\bin\Debug\patternBuilder.exe.config
+C:\Users\eduardo.azuaga\Documents\Visual Studio 2013\patternBuilder\patternBuilder\bin\Debug\patternBuilder.exe
+C:\Users\eduardo.azuaga\Documents\Visual Studio 2013\patternBuilder\patternBuilder\bin\Debug\patternBuilder.pdb
+C:\Users\eduardo.azuaga\Documents\Visual Studio 2013\patternBuilder\patternBuilder\obj\Debug\patternBuilder.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.azuaga\Documents\Visual Studio 2013\patternBuilder\patternBuilder\obj\Debug\patternBuilder.exe
+C:\Users\eduardo.azuaga\Documents\Visual Studio 2013\patternBuilder\patternBuilder\obj\Debug\patternBuilder.pdb
